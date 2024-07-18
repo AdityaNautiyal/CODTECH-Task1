@@ -1,8 +1,13 @@
 **Name:** ADITYA NAUTIYAL
+
 **Company:** CODTECH IT SOLUTIONS
+
 **Id:** CT6WDS213
+
 **Domain:** Cyber Security
+
 **Duration:** 10Th JUNE 2024 to 22Nd JULY 2024
+
 **Mentor:** SRAVANI GOUNI
 
 #  Project: Password Strength Checker
