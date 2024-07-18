@@ -37,6 +37,9 @@ Output:
 **Provides feedback on the password strength.**
 **Lists missing complexity criteria if the password is not strong.**
 
+**Sample Output**
+![screenshot](ss1.jpg)
+
 **Dependencies:**
 Standard Python libraries (re, sys).
 
