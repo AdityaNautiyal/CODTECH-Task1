@@ -37,12 +37,12 @@ Output:
 **Provides feedback on the password strength.**
 **Lists missing complexity criteria if the password is not strong.**
 
-**Sample Output**
-![screenshot](ss1.jpg)
-
 **Dependencies:**
 Standard Python libraries (re, sys).
 
 **Usage:**
 Command Line: _python password_strength_checker.py "YourPassword123!" "YourUsername"_
 Interactive: Run the script without arguments and enter the password and username when prompted.
+
+**Sample Output**
+![screenshot](ss1.jpg)
