@@ -1,5 +1,12 @@
-# pswd_Strength_Checker
-This Python script evaluates the strength of a user-provided password based on specific criteria. It checks the password's length, complexity, and uniqueness relative to the user's username. The complexity assessment includes ensuring the presence of uppercase letters, lowercase letters, digits, and special characters. Based on these checks, the script categorizes the password strength as "weak," "moderate," or "strong" and provides feedback to the user. The script can take input either interactively or through command-line arguments.
+**Name:** ADITYA NAUTIYAL
+**Company:** CODTECH IT SOLUTIONS
+**Id:** CT6WDS213
+**Domain:** Cyber Security
+**Duration:** 10Th JUNE 2024 to 22Nd JULY 2024
+**Mentor:** SRAVANI GOUNI
+
+#  Project: Password Strength Checker
+This Python project evaluates the strength of a user-provided password based on specific criteria. It checks the password's length, complexity, and uniqueness relative to the user's username. The complexity assessment includes ensuring the presence of uppercase letters, lowercase letters, digits, and special characters. Based on these checks, the script categorizes the password strength as "weak," "moderate," or "strong" and provides feedback to the user. The script can take input either interactively or through command-line arguments.
 
 # Specifications of the Password Strength Checker Script
 
